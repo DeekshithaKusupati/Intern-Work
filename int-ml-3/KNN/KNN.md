@@ -27,7 +27,7 @@ In order to understand let's consider a example:
 We are given two groups(A and B), where A consists of circles and B consists of squares.  
 Now a new data point as a triangle is introduced into the groups. So now we have to decide which group(A or B) the triangle belongs to.
 
-![Picture1.png](attachment:Picture1.png)
+[![Picture1.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/KNN/Picture1.png)]
 
 Let the value of ‘K’ which is the number of nearest neighbors be taken as 4, that is it will take 4 neighbors from the two groups which are closest to the triangle.  
 By using the Euclidean or Manhattan distance, we have to calculate the closeness or distance between the triangles and the 4 closest neighbors. 
