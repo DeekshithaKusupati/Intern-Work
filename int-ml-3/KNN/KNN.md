@@ -33,7 +33,7 @@ Let the value of ‘K’ which is the number of nearest neighbors be taken as 4,
 By using the Euclidean or Manhattan distance, we have to calculate the closeness or distance between the triangles and the 4 closest neighbors. 
 After finding the 4 neighbors, suppose we get 3 circles(i.e group A) and 1 square(i.e group B). This shows that the new datapoint(i.e triangle) will be classified into group A of circles. 
 
-![Picture2.png](attachment:Picture2.png)
+[![Picture2.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/KNN/Picture2.png)]
 
 #### *KNN for Classification*
 A class label which is assigned to the majority of K Nearest Neighbors from the dataset is classified as a predicted class for the new data point.
