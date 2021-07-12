@@ -43,7 +43,7 @@ The calculated Mean or median of continuous values which is  assigned to K Neare
 ## *How to select the value ok K in KNN- Algorithm:*
 There is no optimal number of neighbors that suits all kind of data sets since each dataset has their own requirements. In the case of a large number of neighbors it is computationally expensive and a small number of neighbors, the noise will have a higher influence on the result.
 
-![knn.PNG](attachment:knn.PNG)
+![knn.PNG](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/KNN/knn.png)
 
 In real life time scenarios, KNN is widely used as it does not make any underlying assumptions about the distributions of data. So it is non-parametric.
 
