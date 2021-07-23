@@ -85,7 +85,8 @@ for i in range(len(degrees)):
         degrees[i], -scores.mean(), scores.std()))
 plt.show()
 ```
-   
+![untitled1.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/Underfitting/Images/underfitting1.png)
+
 ## *How to avoid underfitting*
 Since we can detect underfitting while using the training set, we can assist in establishing accurate relationship between the input and target variables. we can avoid underfitting and make more accurate predictions by maintaining required complexity.
 
