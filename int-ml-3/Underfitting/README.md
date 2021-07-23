@@ -2,8 +2,8 @@
 ## Topic - Underfitting
 ## Group members -
 
-* ***Kusupati Deekshitha*** - Content writing, Creativity suggestions, Making markdown file
-* ***Subham Nanda***        - Creativity suggestions, Video creating and editing
+* ***Kusupati Deekshitha*** 
+* ***Subham Nanda***      
 
 
   
