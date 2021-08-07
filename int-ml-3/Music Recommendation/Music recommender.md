@@ -38,7 +38,7 @@ his project helps
 #### *II.Personalized Recommenders*
 * Collaborative Filtering
 * Content Based Filtering
-![personalized recommender.png](https://github.com/DeekshithaKusupati/content/blob/main/personalized%20recommender.png)
+![personalized recommender.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/Music%20Recommendation/Images/personalized%20recommender.png)
 
 #### *1.Collaborative Filtering*
 Item-item filtering approach involves defining a co-occurrence matrix based on a song a user likes. We are seeking to answer a question, for each song, what a number of time a user, who have listened to that song, will also listen to another set of other songs. To further simplify this, based on what you like in the past, what other similar song that you will like based on what other similar user have liked. Let’s apply this to our code. First we create an instance item similarity based recommender class and feed it with our training data.
