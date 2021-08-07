@@ -25,7 +25,7 @@ his project helps
 * Recommend based on different modalities(User feedback, Text,Audio..etc).
 
 ## *Flow Chart*
-![flowchart.png](https://github.com/DeekshithaKusupati/content/blob/main/flowchart.png)
+![flowchart.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/Music%20Recommendation/Images/flowchart.png)
 
 ## *Ideas for Recommendation*
 
