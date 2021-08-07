@@ -59,17 +59,17 @@ Recommendations done using content-based recommenders can be seen as a user-spec
 
 #### I. Popularity-based recommendation system:
 
-a. A jupyter notebook named ```Popularity``` that contains the code and analysis for the recommedation system.
+a. A jupyter notebook named ```Popularity``` that contains the code and analysis for the recommedation system.  
 b. A CSV file named ```song_data``` and text file named ```million_song``` containing the data for the songs used in the system.
 
 #### II. Content-based recommendation system:
 
-a. A jupyter notebook named ```content_based``` and ```content_based_artist_names``` that contains the code and analysis for the recommedation system.
+a. A jupyter notebook named ```content_based``` and ```content_based_artist_names``` that contains the code and analysis for the recommedation system.  
 b. A CSV file named ```abcdata``` for content based and  CSV file named ```song_data``` and text file named ```million_song``` for content based artist names are containing the data for the songs used in the system.
 
 #### III. Collaborative recommendation system:
 
-a. A jupyter notebook named ```collaborative``` that contains the code and analysis for the recommedation system.
+a. A jupyter notebook named ```collaborative``` that contains the code and analysis for the recommedation system.  
 b. A CSV file named ```song_data``` and text file named ```million_song``` containing the data for the songs used in the system.
 
 
